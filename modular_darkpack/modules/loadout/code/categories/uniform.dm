@@ -239,6 +239,10 @@
 	name = "Overalls"
 	item_path = /obj/item/clothing/under/vampire/mechanic
 
+/datum/loadout_item/uniform/black_overalls
+	name = "Black Overalls"
+	item_path = /obj/item/clothing/under/vampire/graveyard
+
 /datum/loadout_item/uniform/black_overcoat
 	name = "Overcoat (Black)"
 	item_path = /obj/item/clothing/under/vampire/rich
